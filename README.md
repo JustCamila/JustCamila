@@ -1,4 +1,5 @@
 - 👀 Oi oi, me chamo Camila!
 - :blossom: Tenho 15 anos!
-- 💞️ Sou nova na prgamação, e quero aprender mais sobre!
+- 💞️ Sou nova na progamação, e quero aprender mais sobre!
 - :cowboy_hat_face: Pode me encontrar: https://twitter.com/TalvezCamila__/
+- :wilted_flower: Faço projetos em JavaScript e no site Scratch 
