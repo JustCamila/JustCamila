@@ -21,3 +21,7 @@ Estudante de <b>Engenharia de Software</b>. Estou construindo minha base na prog
     <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=FFC0CB&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+---
+
+![Gráfico de Contribuições](https://ghchart.rshah.org/FFB7C5/JustCamila)
