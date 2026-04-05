@@ -14,7 +14,7 @@ Estudante de <b>Engenharia de Software</b>. Estou construindo minha base na prog
 ---
 
 ### 💞 Vamos nos conectar?
-  <a href="www.linkedin.com/in/camila-vujanski-de-lara-31b78b307" target="_blank">
+  <a href="https://www.linkedin.com/in/camila-vujanski-de-lara-31b78b307/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=D8BFD8&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/cami.lara_/" target="_blank">
