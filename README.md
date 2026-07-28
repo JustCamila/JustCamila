@@ -4,11 +4,16 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JustCamila&theme=dracula" align="right" style="margin-left: 20px;" />
 </p>
 
-Estudante de <b>Engenharia de Software</b>. Estou construindo minha base na programação!
+Estudante de <b>Engenharia de Software</b>, (atualmente no 4° período). Estou construindo minha base na programação!
 
 ### 💻 Estudando atualmete:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,java&perline=5" />
+</p>
+
+### 💻 Tópicos já estudados, mas ainda em aprimoramento:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,javascript,git&perline=5" />
 </p>
 
 ---
