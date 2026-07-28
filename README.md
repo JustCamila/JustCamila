@@ -8,7 +8,7 @@ Estudante de <b>Engenharia de Software</b>, (atualmente no 4° período). Estou 
 
 ### 💻 Estudando atualmete:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,java&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,php,java&perline=5" />
 </p>
 
 ### 💻 Tópicos já estudados, mas ainda em aprimoramento:
